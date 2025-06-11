@@ -54,10 +54,6 @@ Developed and deployed multiple AI-powered applications for clients in real esta
 *Mar 2020 – Present*  
 Produced award-winning content, managed cross-functional teams, and applied data-driven approaches to optimize engagement.
 
-**Writers' Assistant, ABC Studios**  
-*Aug 2017 – Mar 2020*  
-Supported writers' room operations, managed scripts/notes, and contributed creative ideas to network television.
-
 *See full experience in my [resume](./Trevor%20Alpert%20Resume%20for%20Lazarus%20%282025-06-10%29%20%281%29.pdf)*
 
 ---
