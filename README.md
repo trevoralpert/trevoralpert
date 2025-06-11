@@ -73,7 +73,6 @@ Supported writers' room operations, managed scripts/notes, and contributed creat
 
 - [Email](mailto:trevoralpert1@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/trevoralpert)
-- [GitHub](https://github.com/trevoralpert)
 - [Personal Website](https://www.trevoralpert.com)
 - [Download Resume (PDF)](./Trevor%20Alpert%20Resume%20for%20Lazarus%20%282025-06-10%29%20%281%29.pdf)
 
